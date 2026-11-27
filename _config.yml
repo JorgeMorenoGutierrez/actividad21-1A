@@ -21,11 +21,11 @@
 title: Trabajo de IAW/paginas estaticas
 email: 13jorge03@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
-  en este trabajo desmostraremos nuestro conocimientos en el despligue y personalizacion de paginas estaticas,
+  En este trabajo desmostraremos nuestro conocimientos en el despligue y personalizacion de paginas estaticas,
   tocando varios aspectos y desplegandolo en vario sitios
 baseurl: "/actividad21-1A" # the subpath of your site, e.g. /blog
 url: "https://jorgemorenogutierrez.github.io" # the base hostname & protocol for your site, e.g. http://example.com
-twitter_username: bertonfly
+twitter_username: Bertonfly
 github_username:  JorgeMorenoGutierrez
 
 # Build settings
