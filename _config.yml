@@ -18,7 +18,7 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 
-title: Trabajo de IAW/pagians estaticas
+title: Trabajo de IAW/paginas estaticas
 email: 13jorge03@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
   en este trabajo desmostraremos nuestro conocimientos en el despligue y personalizacion de paginas estaticas,
