@@ -4,3 +4,5 @@
 
 layout: home
 ---
+
+En esta pagina web vamos a hablar de diferentes temas referentes a series de libros, mangas y demas obras escritas.
